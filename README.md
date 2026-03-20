@@ -10,18 +10,13 @@ A Python desktop app that generates [Ishihara-style](https://en.wikipedia.org/wi
 - Pick custom text and background colors via color picker
 - Adjust min/max circle radius
 - Save the generated plate as PNG or JPEG
-- Dense, randomized circle packing with no overlaps — mimics real Ishihara plates
+- Dense, randomized circle packing with no overlaps, mimics real Ishihara plates
 
 ## Setup
 
 ```bash
 pip install -r requirements.txt
 ```
-
-> On Arch Linux, also install the Tk system library if not already present:
-> ```bash
-> sudo pacman -S tk
-> ```
 
 ## Run
 
