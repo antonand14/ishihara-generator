@@ -2,8 +2,6 @@
 
 A Python desktop app that generates [Ishihara-style](https://en.wikipedia.org/wiki/Ishihara_test) color blindness test plates from arbitrary text.
 
-![example plate](docs/example.png)
-
 ## Features
 
 - Enter any text to embed it in the plate
